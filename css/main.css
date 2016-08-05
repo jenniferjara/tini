@@ -1,0 +1,78 @@
+/* Inserte su codigo aqui */
+* {
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+/*encabezado*/
+header {
+	background-color: #FCCE09;
+	padding: 50px;
+}
+header nav a {
+	margin-left: 50px;
+}
+.boton {
+	background-color: #F7B639;
+	padding: 10px;
+	text-align: center;
+	width: 20%;
+}
+
+/*seccion 1*/
+.barra {
+	background-color: #FCCE09;
+	height: 400px;
+}
+.barra-texto {
+	color: white;
+	position: relative;
+	top: 150px;
+	text-align: center;
+}
+.botones {
+	background-color: #F7B639;
+	margin: 15px auto;
+	padding: 10px;
+	text-align: center;
+	width: 20%;
+}
+
+/*seccion 2*/
+.main {
+	background-color: #EAEAE9;
+}
+.cuadro {
+	background-color: white;
+	margin: 10px;
+	padding: 10px;
+}
+.imagen {
+	width: 50%;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+}
+.text-main h2 {
+	color: #868692;
+	margin: 20px 10px;
+}
+.text-main p {
+	color: #CCCCCC;
+	margin: 20px;
+}
+
+/*pie de pagina*/
+footer {
+	background-color: #323230;
+	clear: both;
+	color: white;
+	padding: 30px 20px;
+}
+.texto-footer {
+	color: white;
+}
